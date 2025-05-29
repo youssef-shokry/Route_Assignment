@@ -277,7 +277,7 @@ public static void main(String[] args) {
     }
 */
 
-//9 - search about selection sort and implement it in function SelectionSort that
+//9- search about selection sort and implement it in function SelectionSort that
 //takes array as a parameter and sort it using the algorithm
 /*
 public static void main(String[] args) {
