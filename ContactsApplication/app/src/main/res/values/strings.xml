@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Contacts Application</string>
+    <string name="emptyListText">There is No Contacts Added Here</string>
+    <string name="Add">+</string>
+    <string name="contactName">El-balf</string>
+    <string name="contactEmail">elbalf.route@gmail.com</string>
+    <string name="contactNumber">+201666666666</string>
+    <string name="deleteText">Delete</string>
+    <string name="username">User Name</string>
+    <string name="email">example@email.com</string>
+    <string name="number">+2</string>
+    <string name="enterUserName">Enter User Name</string>
+    <string name="enterEmail">Enter User Email</string>
+    <string name="enterPhoneNumber">Enter User Phone</string>
+    <string name="enterUser">Enter User</string>
+</resources>
